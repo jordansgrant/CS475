@@ -1,0 +1,34 @@
+#!/bin/bash
+
+if [ -z "$1" ]; then
+  NAME=prog
+else
+  NAME=$1
+fi
+
+gcc -o $NAME prog0.c -lm -fopenmp
+
+if [ $? -ne 0 ]; then
+  echo
+  echo "Compilation Failed, check prog0.c"
+  exit 1
+fi
+
+MM_ONET=$( $NAME 1 )
+
+echo
+
+MM_FOURT=$( $NAME 4 )
+
+python3 - << EOF
+import sys
+
+S = $MM_FOURT / $MM_ONET
+FP = (4.0 / 3.0) * (1.0 - (1.0 / S))
+
+print("\nSpeedup is: {0:.3f}".format(S))
+print("Parallel Fraction is: {0:.2f}".format(FP))
+
+EOF
+
+rm -f $NAME
