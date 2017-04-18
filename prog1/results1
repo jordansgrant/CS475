@@ -1,0 +1,591 @@
+Performance of Volume Calculation is measured in Mega Heights Calculated per Second (MH/s)
+
+Starting Run with NUMNODES = 4 and NUMT = 1
+Inner Volume:		  26.111
+   Peak Performance =	   4.426 MegaHeights/Sec
+Average Performance =	   3.799 MegaHeights/Sec
+
+Starting Run with NUMNODES = 4 and NUMT = 2
+Inner Volume:		  26.111
+   Peak Performance =	   4.271 MegaHeights/Sec
+Average Performance =	   3.313 MegaHeights/Sec
+
+Starting Run with NUMNODES = 4 and NUMT = 4
+Inner Volume:		  26.111
+   Peak Performance =	   2.977 MegaHeights/Sec
+Average Performance =	   2.479 MegaHeights/Sec
+
+Starting Run with NUMNODES = 4 and NUMT = 6
+Inner Volume:		  26.111
+   Peak Performance =	   2.619 MegaHeights/Sec
+Average Performance =	   1.911 MegaHeights/Sec
+
+Starting Run with NUMNODES = 4 and NUMT = 8
+Inner Volume:		  26.111
+   Peak Performance =	   1.971 MegaHeights/Sec
+Average Performance =	   1.591 MegaHeights/Sec
+
+Starting Run with NUMNODES = 4 and NUMT = 10
+Inner Volume:		  26.111
+   Peak Performance =	   1.901 MegaHeights/Sec
+Average Performance =	   1.233 MegaHeights/Sec
+
+Starting Run with NUMNODES = 4 and NUMT = 12
+Inner Volume:		  26.111
+   Peak Performance =	   1.449 MegaHeights/Sec
+Average Performance =	   1.183 MegaHeights/Sec
+
+Starting Run with NUMNODES = 8 and NUMT = 1
+Inner Volume:		  25.471
+   Peak Performance =	   5.342 MegaHeights/Sec
+Average Performance =	   4.913 MegaHeights/Sec
+
+Starting Run with NUMNODES = 8 and NUMT = 2
+Inner Volume:		  25.471
+   Peak Performance =	   8.144 MegaHeights/Sec
+Average Performance =	   6.701 MegaHeights/Sec
+
+Starting Run with NUMNODES = 8 and NUMT = 4
+Inner Volume:		  25.471
+   Peak Performance =	   8.526 MegaHeights/Sec
+Average Performance =	   7.044 MegaHeights/Sec
+
+Starting Run with NUMNODES = 8 and NUMT = 6
+Inner Volume:		  25.471
+   Peak Performance =	   8.187 MegaHeights/Sec
+Average Performance =	   6.449 MegaHeights/Sec
+
+Starting Run with NUMNODES = 8 and NUMT = 8
+Inner Volume:		  25.471
+   Peak Performance =	   7.463 MegaHeights/Sec
+Average Performance =	   6.185 MegaHeights/Sec
+
+Starting Run with NUMNODES = 8 and NUMT = 10
+Inner Volume:		  25.471
+   Peak Performance =	   5.928 MegaHeights/Sec
+Average Performance =	   4.541 MegaHeights/Sec
+
+Starting Run with NUMNODES = 8 and NUMT = 12
+Inner Volume:		  25.471
+   Peak Performance =	   6.203 MegaHeights/Sec
+Average Performance =	   4.113 MegaHeights/Sec
+
+Starting Run with NUMNODES = 10 and NUMT = 1
+Inner Volume:		  25.409
+   Peak Performance =	   5.485 MegaHeights/Sec
+Average Performance =	   5.122 MegaHeights/Sec
+
+Starting Run with NUMNODES = 10 and NUMT = 2
+Inner Volume:		  25.409
+   Peak Performance =	   8.364 MegaHeights/Sec
+Average Performance =	   6.666 MegaHeights/Sec
+
+Starting Run with NUMNODES = 10 and NUMT = 4
+Inner Volume:		  25.409
+   Peak Performance =	   9.992 MegaHeights/Sec
+Average Performance =	   8.431 MegaHeights/Sec
+
+Starting Run with NUMNODES = 10 and NUMT = 6
+Inner Volume:		  25.409
+   Peak Performance =	  10.039 MegaHeights/Sec
+Average Performance =	   8.072 MegaHeights/Sec
+
+Starting Run with NUMNODES = 10 and NUMT = 8
+Inner Volume:		  25.409
+   Peak Performance =	   9.541 MegaHeights/Sec
+Average Performance =	   7.144 MegaHeights/Sec
+
+Starting Run with NUMNODES = 10 and NUMT = 10
+Inner Volume:		  25.409
+   Peak Performance =	   8.881 MegaHeights/Sec
+Average Performance =	   6.728 MegaHeights/Sec
+
+Starting Run with NUMNODES = 10 and NUMT = 12
+Inner Volume:		  25.409
+   Peak Performance =	   8.689 MegaHeights/Sec
+Average Performance =	   7.097 MegaHeights/Sec
+
+Starting Run with NUMNODES = 15 and NUMT = 1
+Inner Volume:		  25.353
+   Peak Performance =	   5.563 MegaHeights/Sec
+Average Performance =	   5.362 MegaHeights/Sec
+
+Starting Run with NUMNODES = 15 and NUMT = 2
+Inner Volume:		  25.353
+   Peak Performance =	   9.604 MegaHeights/Sec
+Average Performance =	   7.647 MegaHeights/Sec
+
+Starting Run with NUMNODES = 15 and NUMT = 4
+Inner Volume:		  25.353
+   Peak Performance =	  13.507 MegaHeights/Sec
+Average Performance =	  11.333 MegaHeights/Sec
+
+Starting Run with NUMNODES = 15 and NUMT = 6
+Inner Volume:		  25.353
+   Peak Performance =	  15.844 MegaHeights/Sec
+Average Performance =	  12.649 MegaHeights/Sec
+
+Starting Run with NUMNODES = 15 and NUMT = 8
+Inner Volume:		  25.353
+   Peak Performance =	  16.330 MegaHeights/Sec
+Average Performance =	  13.265 MegaHeights/Sec
+
+Starting Run with NUMNODES = 15 and NUMT = 10
+Inner Volume:		  25.353
+   Peak Performance =	  15.320 MegaHeights/Sec
+Average Performance =	  11.304 MegaHeights/Sec
+
+Starting Run with NUMNODES = 15 and NUMT = 12
+Inner Volume:		  25.353
+   Peak Performance =	  16.668 MegaHeights/Sec
+Average Performance =	  11.553 MegaHeights/Sec
+
+Starting Run with NUMNODES = 50 and NUMT = 1
+Inner Volume:		  25.316
+   Peak Performance =	   5.741 MegaHeights/Sec
+Average Performance =	   5.685 MegaHeights/Sec
+
+Starting Run with NUMNODES = 50 and NUMT = 2
+Inner Volume:		  25.316
+   Peak Performance =	  10.961 MegaHeights/Sec
+Average Performance =	  10.461 MegaHeights/Sec
+
+Starting Run with NUMNODES = 50 and NUMT = 4
+Inner Volume:		  25.316
+   Peak Performance =	  20.680 MegaHeights/Sec
+Average Performance =	  18.546 MegaHeights/Sec
+
+Starting Run with NUMNODES = 50 and NUMT = 6
+Inner Volume:		  25.316
+   Peak Performance =	  30.380 MegaHeights/Sec
+Average Performance =	  25.909 MegaHeights/Sec
+
+Starting Run with NUMNODES = 50 and NUMT = 8
+Inner Volume:		  25.316
+   Peak Performance =	  39.540 MegaHeights/Sec
+Average Performance =	  33.814 MegaHeights/Sec
+
+Starting Run with NUMNODES = 50 and NUMT = 10
+Inner Volume:		  25.316
+   Peak Performance =	  46.082 MegaHeights/Sec
+Average Performance =	  39.057 MegaHeights/Sec
+
+Starting Run with NUMNODES = 50 and NUMT = 12
+Inner Volume:		  25.316
+   Peak Performance =	  53.021 MegaHeights/Sec
+Average Performance =	  46.419 MegaHeights/Sec
+
+Starting Run with NUMNODES = 100 and NUMT = 1
+Inner Volume:		  25.313
+   Peak Performance =	   5.726 MegaHeights/Sec
+Average Performance =	   5.696 MegaHeights/Sec
+
+Starting Run with NUMNODES = 100 and NUMT = 2
+Inner Volume:		  25.313
+   Peak Performance =	  11.025 MegaHeights/Sec
+Average Performance =	  10.851 MegaHeights/Sec
+
+Starting Run with NUMNODES = 100 and NUMT = 4
+Inner Volume:		  25.313
+   Peak Performance =	  21.862 MegaHeights/Sec
+Average Performance =	  21.057 MegaHeights/Sec
+
+Starting Run with NUMNODES = 100 and NUMT = 6
+Inner Volume:		  25.313
+   Peak Performance =	  32.431 MegaHeights/Sec
+Average Performance =	  30.389 MegaHeights/Sec
+
+Starting Run with NUMNODES = 100 and NUMT = 8
+Inner Volume:		  25.313
+   Peak Performance =	  42.688 MegaHeights/Sec
+Average Performance =	  38.496 MegaHeights/Sec
+
+Starting Run with NUMNODES = 100 and NUMT = 10
+Inner Volume:		  25.313
+   Peak Performance =	  52.622 MegaHeights/Sec
+Average Performance =	  48.303 MegaHeights/Sec
+
+Starting Run with NUMNODES = 100 and NUMT = 12
+Inner Volume:		  25.313
+   Peak Performance =	  59.806 MegaHeights/Sec
+Average Performance =	  54.568 MegaHeights/Sec
+
+Starting Run with NUMNODES = 200 and NUMT = 1
+Inner Volume:		  25.313
+   Peak Performance =	   5.745 MegaHeights/Sec
+Average Performance =	   5.737 MegaHeights/Sec
+
+Starting Run with NUMNODES = 200 and NUMT = 2
+Inner Volume:		  25.313
+   Peak Performance =	  11.041 MegaHeights/Sec
+Average Performance =	  10.969 MegaHeights/Sec
+
+Starting Run with NUMNODES = 200 and NUMT = 4
+Inner Volume:		  25.313
+   Peak Performance =	  22.019 MegaHeights/Sec
+Average Performance =	  21.780 MegaHeights/Sec
+
+Starting Run with NUMNODES = 200 and NUMT = 6
+Inner Volume:		  25.313
+   Peak Performance =	  30.797 MegaHeights/Sec
+Average Performance =	  30.084 MegaHeights/Sec
+
+Starting Run with NUMNODES = 200 and NUMT = 8
+Inner Volume:		  25.313
+   Peak Performance =	  41.954 MegaHeights/Sec
+Average Performance =	  40.538 MegaHeights/Sec
+
+Starting Run with NUMNODES = 200 and NUMT = 10
+Inner Volume:		  25.313
+   Peak Performance =	  52.374 MegaHeights/Sec
+Average Performance =	  49.777 MegaHeights/Sec
+
+Starting Run with NUMNODES = 200 and NUMT = 12
+Inner Volume:		  25.313
+   Peak Performance =	  62.970 MegaHeights/Sec
+Average Performance =	  58.422 MegaHeights/Sec
+
+Starting Run with NUMNODES = 500 and NUMT = 1
+Inner Volume:		  25.313
+   Peak Performance =	   5.770 MegaHeights/Sec
+Average Performance =	   5.755 MegaHeights/Sec
+
+Starting Run with NUMNODES = 500 and NUMT = 2
+Inner Volume:		  25.313
+   Peak Performance =	  11.261 MegaHeights/Sec
+Average Performance =	  11.223 MegaHeights/Sec
+
+Starting Run with NUMNODES = 500 and NUMT = 4
+Inner Volume:		  25.313
+   Peak Performance =	  22.484 MegaHeights/Sec
+Average Performance =	  22.274 MegaHeights/Sec
+
+Starting Run with NUMNODES = 500 and NUMT = 6
+Inner Volume:		  25.313
+   Peak Performance =	  32.926 MegaHeights/Sec
+Average Performance =	  32.262 MegaHeights/Sec
+
+Starting Run with NUMNODES = 500 and NUMT = 8
+Inner Volume:		  25.313
+   Peak Performance =	  43.767 MegaHeights/Sec
+Average Performance =	  42.716 MegaHeights/Sec
+
+Starting Run with NUMNODES = 500 and NUMT = 10
+Inner Volume:		  25.313
+   Peak Performance =	  54.537 MegaHeights/Sec
+Average Performance =	  52.844 MegaHeights/Sec
+
+Starting Run with NUMNODES = 500 and NUMT = 12
+Inner Volume:		  25.313
+   Peak Performance =	  65.052 MegaHeights/Sec
+Average Performance =	  62.157 MegaHeights/Sec
+
+Starting Run with NUMNODES = 1000 and NUMT = 1
+Inner Volume:		  25.313
+   Peak Performance =	  14.551 MegaHeights/Sec
+Average Performance =	  11.642 MegaHeights/Sec
+
+Starting Run with NUMNODES = 1000 and NUMT = 2
+Inner Volume:		  25.313
+   Peak Performance =	  28.702 MegaHeights/Sec
+Average Performance =	  28.374 MegaHeights/Sec
+
+Starting Run with NUMNODES = 1000 and NUMT = 4
+Inner Volume:		  25.313
+   Peak Performance =	  51.577 MegaHeights/Sec
+Average Performance =	  50.770 MegaHeights/Sec
+
+Starting Run with NUMNODES = 1000 and NUMT = 6
+Inner Volume:		  25.313
+   Peak Performance =	  74.681 MegaHeights/Sec
+Average Performance =	  74.131 MegaHeights/Sec
+
+Starting Run with NUMNODES = 1000 and NUMT = 8
+Inner Volume:		  25.313
+   Peak Performance =	  99.504 MegaHeights/Sec
+Average Performance =	  95.000 MegaHeights/Sec
+
+Starting Run with NUMNODES = 1000 and NUMT = 10
+Inner Volume:		  25.313
+   Peak Performance =	 115.253 MegaHeights/Sec
+Average Performance =	 113.355 MegaHeights/Sec
+
+Starting Run with NUMNODES = 1000 and NUMT = 12
+Inner Volume:		  25.313
+   Peak Performance =	 138.187 MegaHeights/Sec
+Average Performance =	 135.593 MegaHeights/Sec
+
+Starting Run with NUMNODES = 1500 and NUMT = 1
+Inner Volume:		  25.313
+   Peak Performance =	  14.839 MegaHeights/Sec
+Average Performance =	  13.167 MegaHeights/Sec
+
+Starting Run with NUMNODES = 1500 and NUMT = 2
+Inner Volume:		  25.313
+   Peak Performance =	  28.229 MegaHeights/Sec
+Average Performance =	  23.266 MegaHeights/Sec
+
+Starting Run with NUMNODES = 1500 and NUMT = 4
+Inner Volume:		  25.313
+   Peak Performance =	  30.057 MegaHeights/Sec
+Average Performance =	  28.032 MegaHeights/Sec
+
+Starting Run with NUMNODES = 1500 and NUMT = 6
+Inner Volume:		  25.313
+   Peak Performance =	  44.859 MegaHeights/Sec
+Average Performance =	  44.655 MegaHeights/Sec
+
+Starting Run with NUMNODES = 1500 and NUMT = 8
+Inner Volume:		  25.313
+   Peak Performance =	  73.658 MegaHeights/Sec
+Average Performance =	  73.306 MegaHeights/Sec
+
+Starting Run with NUMNODES = 1500 and NUMT = 10
+Inner Volume:		  25.313
+   Peak Performance =	  72.450 MegaHeights/Sec
+Average Performance =	  57.459 MegaHeights/Sec
+
+Starting Run with NUMNODES = 1500 and NUMT = 12
+Inner Volume:		  25.313
+   Peak Performance =	  66.519 MegaHeights/Sec
+Average Performance =	  65.839 MegaHeights/Sec
+
+Starting Run with NUMNODES = 2000 and NUMT = 1
+Inner Volume:		  25.313
+   Peak Performance =	  14.582 MegaHeights/Sec
+Average Performance =	  13.165 MegaHeights/Sec
+
+Starting Run with NUMNODES = 2000 and NUMT = 2
+Inner Volume:		  25.313
+   Peak Performance =	  28.779 MegaHeights/Sec
+Average Performance =	  27.190 MegaHeights/Sec
+
+Starting Run with NUMNODES = 2000 and NUMT = 4
+Inner Volume:		  25.313
+   Peak Performance =	  56.473 MegaHeights/Sec
+Average Performance =	  56.186 MegaHeights/Sec
+
+Starting Run with NUMNODES = 2000 and NUMT = 6
+Inner Volume:		  25.313
+   Peak Performance =	  84.126 MegaHeights/Sec
+Average Performance =	  83.210 MegaHeights/Sec
+
+Starting Run with NUMNODES = 2000 and NUMT = 8
+Inner Volume:		  25.313
+   Peak Performance =	 108.727 MegaHeights/Sec
+Average Performance =	 106.804 MegaHeights/Sec
+
+Starting Run with NUMNODES = 2000 and NUMT = 10
+Inner Volume:		  25.313
+   Peak Performance =	 133.433 MegaHeights/Sec
+Average Performance =	 131.930 MegaHeights/Sec
+
+Starting Run with NUMNODES = 2000 and NUMT = 12
+Inner Volume:		  25.313
+   Peak Performance =	 154.906 MegaHeights/Sec
+Average Performance =	 153.551 MegaHeights/Sec
+
+Starting Run with NUMNODES = 3000 and NUMT = 1
+Inner Volume:		  25.313
+   Peak Performance =	  14.575 MegaHeights/Sec
+Average Performance =	  14.396 MegaHeights/Sec
+
+Starting Run with NUMNODES = 3000 and NUMT = 2
+Inner Volume:		  25.313
+   Peak Performance =	  28.751 MegaHeights/Sec
+Average Performance =	  26.628 MegaHeights/Sec
+
+Starting Run with NUMNODES = 3000 and NUMT = 4
+Inner Volume:		  25.313
+   Peak Performance =	  51.665 MegaHeights/Sec
+Average Performance =	  51.595 MegaHeights/Sec
+
+Starting Run with NUMNODES = 3000 and NUMT = 6
+Inner Volume:		  25.313
+   Peak Performance =	  83.454 MegaHeights/Sec
+Average Performance =	  82.715 MegaHeights/Sec
+
+Starting Run with NUMNODES = 3000 and NUMT = 8
+Inner Volume:		  25.313
+   Peak Performance =	 109.146 MegaHeights/Sec
+Average Performance =	 107.926 MegaHeights/Sec
+
+Starting Run with NUMNODES = 3000 and NUMT = 10
+Inner Volume:		  25.313
+   Peak Performance =	 134.695 MegaHeights/Sec
+Average Performance =	 133.346 MegaHeights/Sec
+
+Starting Run with NUMNODES = 3000 and NUMT = 12
+Inner Volume:		  25.313
+   Peak Performance =	 157.332 MegaHeights/Sec
+Average Performance =	 156.598 MegaHeights/Sec
+
+Starting Run with NUMNODES = 4000 and NUMT = 1
+Inner Volume:		  25.312
+   Peak Performance =	  14.479 MegaHeights/Sec
+Average Performance =	  14.011 MegaHeights/Sec
+
+Starting Run with NUMNODES = 4000 and NUMT = 2
+Inner Volume:		  25.312
+   Peak Performance =	  28.784 MegaHeights/Sec
+Average Performance =	  28.400 MegaHeights/Sec
+
+Starting Run with NUMNODES = 4000 and NUMT = 4
+Inner Volume:		  25.312
+   Peak Performance =	  56.376 MegaHeights/Sec
+Average Performance =	  56.007 MegaHeights/Sec
+
+Starting Run with NUMNODES = 4000 and NUMT = 6
+Inner Volume:		  25.312
+   Peak Performance =	  84.222 MegaHeights/Sec
+Average Performance =	  83.612 MegaHeights/Sec
+
+Starting Run with NUMNODES = 4000 and NUMT = 8
+Inner Volume:		  25.312
+   Peak Performance =	 108.623 MegaHeights/Sec
+Average Performance =	 106.279 MegaHeights/Sec
+
+Starting Run with NUMNODES = 4000 and NUMT = 10
+Inner Volume:		  25.312
+   Peak Performance =	 135.674 MegaHeights/Sec
+Average Performance =	 134.338 MegaHeights/Sec
+
+Starting Run with NUMNODES = 4000 and NUMT = 12
+Inner Volume:		  25.312
+   Peak Performance =	 156.938 MegaHeights/Sec
+Average Performance =	 152.008 MegaHeights/Sec
+
+Starting Run with NUMNODES = 5000 and NUMT = 1
+Inner Volume:		  25.313
+   Peak Performance =	  13.159 MegaHeights/Sec
+Average Performance =	  13.115 MegaHeights/Sec
+
+Starting Run with NUMNODES = 5000 and NUMT = 2
+Inner Volume:		  25.313
+   Peak Performance =	  28.802 MegaHeights/Sec
+Average Performance =	  28.373 MegaHeights/Sec
+
+Starting Run with NUMNODES = 5000 and NUMT = 4
+Inner Volume:		  25.313
+   Peak Performance =	  56.286 MegaHeights/Sec
+Average Performance =	  53.810 MegaHeights/Sec
+
+Starting Run with NUMNODES = 5000 and NUMT = 6
+Inner Volume:		  25.313
+   Peak Performance =	  84.187 MegaHeights/Sec
+Average Performance =	  82.207 MegaHeights/Sec
+
+Starting Run with NUMNODES = 5000 and NUMT = 8
+Inner Volume:		  25.313
+   Peak Performance =	 108.485 MegaHeights/Sec
+Average Performance =	 106.551 MegaHeights/Sec
+
+Starting Run with NUMNODES = 5000 and NUMT = 10
+Inner Volume:		  25.313
+   Peak Performance =	 135.857 MegaHeights/Sec
+Average Performance =	 132.882 MegaHeights/Sec
+
+Starting Run with NUMNODES = 5000 and NUMT = 12
+Inner Volume:		  25.313
+   Peak Performance =	 157.404 MegaHeights/Sec
+Average Performance =	 156.662 MegaHeights/Sec
+
+NUMNODES,NUMT,Performance (MH/s)
+4,1,4.426
+4,2,4.271
+4,4,2.977
+4,6,2.619
+4,8,1.971
+4,10,1.901
+4,12,1.449
+8,1,5.342
+8,2,8.144
+8,4,8.526
+8,6,8.187
+8,8,7.463
+8,10,5.928
+8,12,6.203
+10,1,5.485
+10,2,8.364
+10,4,9.992
+10,6,10.039
+10,8,9.541
+10,10,8.881
+10,12,8.689
+15,1,5.563
+15,2,9.604
+15,4,13.507
+15,6,15.844
+15,8,16.330
+15,10,15.320
+15,12,16.668
+50,1,5.741
+50,2,10.961
+50,4,20.680
+50,6,30.380
+50,8,39.540
+50,10,46.082
+50,12,53.021
+100,1,5.726
+100,2,11.025
+100,4,21.862
+100,6,32.431
+100,8,42.688
+100,10,52.622
+100,12,59.806
+200,1,5.745
+200,2,11.041
+200,4,22.019
+200,6,30.797
+200,8,41.954
+200,10,52.374
+200,12,62.970
+500,1,5.770
+500,2,11.261
+500,4,22.484
+500,6,32.926
+500,8,43.767
+500,10,54.537
+500,12,65.052
+1000,1,14.551
+1000,2,28.702
+1000,4,51.577
+1000,6,74.681
+1000,8,99.504
+1000,10,115.253
+1000,12,138.187
+1500,1,14.839
+1500,2,28.229
+1500,4,30.057
+1500,6,44.859
+1500,8,73.658
+1500,10,72.450
+1500,12,66.519
+2000,1,14.582
+2000,2,28.779
+2000,4,56.473
+2000,6,84.126
+2000,8,108.727
+2000,10,133.433
+2000,12,154.906
+3000,1,14.575
+3000,2,28.751
+3000,4,51.665
+3000,6,83.454
+3000,8,109.146
+3000,10,134.695
+3000,12,157.332
+4000,1,14.479
+4000,2,28.784
+4000,4,56.376
+4000,6,84.222
+4000,8,108.623
+4000,10,135.674
+4000,12,156.938
+5000,1,13.159
+5000,2,28.802
+5000,4,56.286
+5000,6,84.187
+5000,8,108.485
+5000,10,135.857
+5000,12,157.404
