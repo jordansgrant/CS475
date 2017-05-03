@@ -6,16 +6,30 @@ my @trow;
 foreach my $NUMT (1, 2, 4, 6, 8, 10, 12, 16) {
     
   my $line = $NUMT."\t";
-
+  
   foreach my $SCHED ( "static", "dynamic" ) {
     foreach my $CHUNK ( 1, 4096 ) {
-      $retval = system("g++ -o prog prog2.cpp -lm -fopenmp -DNUMT=".$NUMT." -DSCHED_TYPE=".$SCHED." -DCHUNK_SIZE=".$CHUNK);
+      my $retval;
+      if ($ARGV[0] eq "mic") {
+        $retval = system("icpc -mmic -o prog prog2.cpp -lm -openmp -no-vec -align -DNUMT=".$NUMT." -DSCHED_TYPE=".$SCHED." -DCHUNK_SIZE=".$CHUNK);
+      }
+      elsif ($ARGV[0] eq "icpc") {
+        $retval = system("icpc -o prog prog2.cpp -lm -openmp -no-vec -align -DNUMT=".$NUMT." -DSCHED_TYPE=".$SCHED." -DCHUNK_SIZE=".$CHUNK);
+      }
+      else {
+        $retval = system("g++ -o prog prog2.cpp -lm -fopenmp -DNUMT=".$NUMT." -DSCHED_TYPE=".$SCHED." -DCHUNK_SIZE=".$CHUNK);
+      }
       if ($retval != 0) {
         print "Failed to compile with NUMT=".$NUMT." Schedule=".$SCHED." Chunk=".$CHUNK."\n";
         return 1;
       }
       print "\nNow Running NUMT=".$NUMT." SCHED=".$SCHED." CHUNK=".$CHUNK."\n";
-      $retval = `prog`;
+      if ($ARGV[0] eq "mic") {
+        chomp($retval = `micnativeloadex prog`);
+      }
+      else {
+        $retval = `prog`;
+      }
       $line .= $retval."\t";
     }
   }
