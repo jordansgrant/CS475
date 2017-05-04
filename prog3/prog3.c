@@ -1,5 +1,5 @@
-#include <stdio.h>
-#include <stdlib.h>
+#include <cstdio>
+#include <cstdlib>
 #include <omp.h>
 
 struct s
@@ -22,7 +22,7 @@ int main() {
     double time_b = omp_get_wtime();
 
     #pragma omp parallel for default(none), shared(Array)
-    for ( int i = 0; i < 4; i++ ) {
+    for (int i = 0; i < 4; i++ ) {
       unsigned int seed = 0;
       for (unsigned int j = 0; j < large_num; j++) {
         Array[i].value = Array[i].value + (float)rand_r( &seed );

@@ -19,7 +19,7 @@ foreach my $NUMT (@num_threads) {
       $retval = system("icc -o prog prog3.c -lm -openmp -no-vec -align -DNUMT=".$NUMT." -DNUMPAD=".$NUMPAD);
     }
     else {
-      $retval = system("gcc -o prog prog3.c -lm -fopenmp -DNUMT=".$NUMT." -DNUMPAD=".$NUMPAD);
+      $retval = system("g++ -o prog prog3.c -lm -fopenmp -DNUMT=".$NUMT." -DNUMPAD=".$NUMPAD);
     }
     if ($retval != 0) {
       print "Failed to compile with NUMT=".$NUMT." NUMPAD=".$NUMPAD."\n";
@@ -48,6 +48,8 @@ print "\t";
 foreach my $num (@num_threads) {
   print $num."\t";
 }
+print "\n";
+
 foreach my $row (@trow) {
   print $row;
 }
