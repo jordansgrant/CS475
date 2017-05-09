@@ -1,0 +1,15 @@
+Performance was calculated in MegaSums per Second (MS/s)
+
+Now Running NUMT=1 NUMPAD=0
+   Peak Performance =   166.14
+Average Performance =   160.84
+
+Now Running NUMT=2 NUMPAD=0
+   Peak Performance =   330.22
+Average Performance =   320.04
+
+Now Running NUMT=4 NUMPAD=0
+   Peak Performance =   654.20
+Average Performance =   651.57
+		1		2		4		
+0	  166.14	  330.22	  654.20	

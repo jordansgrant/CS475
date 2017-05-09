@@ -1,0 +1,197 @@
+Performance was calculated in MegaSums per Second (MS/s)
+
+Now Running NUMT=1 NUMPAD=1
+   Peak Performance =   184.88
+Average Performance =   179.28
+
+Now Running NUMT=2 NUMPAD=1
+   Peak Performance =   109.76
+Average Performance =    95.79
+
+Now Running NUMT=4 NUMPAD=1
+   Peak Performance =    91.24
+Average Performance =    83.28
+
+Now Running NUMT=1 NUMPAD=2
+   Peak Performance =   185.88
+Average Performance =   180.17
+
+Now Running NUMT=2 NUMPAD=2
+   Peak Performance =   107.01
+Average Performance =    97.77
+
+Now Running NUMT=4 NUMPAD=2
+   Peak Performance =    93.42
+Average Performance =    81.06
+
+Now Running NUMT=1 NUMPAD=3
+   Peak Performance =   181.72
+Average Performance =   173.04
+
+Now Running NUMT=2 NUMPAD=3
+   Peak Performance =   120.84
+Average Performance =   120.03
+
+Now Running NUMT=4 NUMPAD=3
+   Peak Performance =   123.49
+Average Performance =   122.78
+
+Now Running NUMT=1 NUMPAD=4
+   Peak Performance =   185.54
+Average Performance =   184.48
+
+Now Running NUMT=2 NUMPAD=4
+   Peak Performance =    91.58
+Average Performance =    87.32
+
+Now Running NUMT=4 NUMPAD=4
+   Peak Performance =    86.27
+Average Performance =    80.39
+
+Now Running NUMT=1 NUMPAD=5
+   Peak Performance =   166.21
+Average Performance =   125.02
+
+Now Running NUMT=2 NUMPAD=5
+   Peak Performance =   157.69
+Average Performance =   140.38
+
+Now Running NUMT=4 NUMPAD=5
+   Peak Performance =   128.50
+Average Performance =   111.78
+
+Now Running NUMT=1 NUMPAD=6
+   Peak Performance =   187.03
+Average Performance =   186.98
+
+Now Running NUMT=2 NUMPAD=6
+   Peak Performance =   169.80
+Average Performance =   155.96
+
+Now Running NUMT=4 NUMPAD=6
+   Peak Performance =   129.49
+Average Performance =   115.71
+
+Now Running NUMT=1 NUMPAD=7
+   Peak Performance =   181.72
+Average Performance =   137.74
+
+Now Running NUMT=2 NUMPAD=7
+   Peak Performance =   357.35
+Average Performance =   334.34
+
+Now Running NUMT=4 NUMPAD=7
+   Peak Performance =   175.88
+Average Performance =   160.10
+
+Now Running NUMT=1 NUMPAD=8
+   Peak Performance =   185.54
+Average Performance =   177.66
+
+Now Running NUMT=2 NUMPAD=8
+   Peak Performance =   341.38
+Average Performance =   315.69
+
+Now Running NUMT=4 NUMPAD=8
+   Peak Performance =   180.23
+Average Performance =   159.07
+
+Now Running NUMT=1 NUMPAD=9
+   Peak Performance =   185.54
+Average Performance =   176.04
+
+Now Running NUMT=2 NUMPAD=9
+   Peak Performance =   369.07
+Average Performance =   324.30
+
+Now Running NUMT=4 NUMPAD=9
+   Peak Performance =   181.10
+Average Performance =   165.97
+
+Now Running NUMT=1 NUMPAD=10
+   Peak Performance =   184.42
+Average Performance =   144.56
+
+Now Running NUMT=2 NUMPAD=10
+   Peak Performance =   368.02
+Average Performance =   297.76
+
+Now Running NUMT=4 NUMPAD=10
+   Peak Performance =   204.76
+Average Performance =   193.61
+
+Now Running NUMT=1 NUMPAD=11
+   Peak Performance =   185.88
+Average Performance =   185.85
+
+Now Running NUMT=2 NUMPAD=11
+   Peak Performance =   370.20
+Average Performance =   339.09
+
+Now Running NUMT=4 NUMPAD=11
+   Peak Performance =   188.64
+Average Performance =   181.35
+
+Now Running NUMT=1 NUMPAD=12
+   Peak Performance =   184.49
+Average Performance =   175.11
+
+Now Running NUMT=2 NUMPAD=12
+   Peak Performance =   350.91
+Average Performance =   325.23
+
+Now Running NUMT=4 NUMPAD=12
+   Peak Performance =   196.67
+Average Performance =   183.66
+
+Now Running NUMT=1 NUMPAD=13
+   Peak Performance =   187.03
+Average Performance =   180.98
+
+Now Running NUMT=2 NUMPAD=13
+   Peak Performance =   373.49
+Average Performance =   340.35
+
+Now Running NUMT=4 NUMPAD=13
+   Peak Performance =   213.24
+Average Performance =   203.82
+
+Now Running NUMT=1 NUMPAD=14
+   Peak Performance =   185.82
+Average Performance =   183.91
+
+Now Running NUMT=2 NUMPAD=14
+   Peak Performance =   347.72
+Average Performance =   323.71
+
+Now Running NUMT=4 NUMPAD=14
+   Peak Performance =   214.53
+Average Performance =   200.96
+
+Now Running NUMT=1 NUMPAD=15
+   Peak Performance =   181.67
+Average Performance =   175.68
+
+Now Running NUMT=2 NUMPAD=15
+   Peak Performance =   323.68
+Average Performance =   261.66
+
+Now Running NUMT=4 NUMPAD=15
+   Peak Performance =   722.33
+Average Performance =   626.52
+		1		2		4		
+1	  184.88	  109.76	   91.24	
+2	  185.88	  107.01	   93.42	
+3	  181.72	  120.84	  123.49	
+4	  185.54	   91.58	   86.27	
+5	  166.21	  157.69	  128.50	
+6	  187.03	  169.80	  129.49	
+7	  181.72	  357.35	  175.88	
+8	  185.54	  341.38	  180.23	
+9	  185.54	  369.07	  181.10	
+10	  184.42	  368.02	  204.76	
+11	  185.88	  370.20	  188.64	
+12	  184.49	  350.91	  196.67	
+13	  187.03	  373.49	  213.24	
+14	  185.82	  347.72	  214.53	
+15	  181.67	  323.68	  722.33	
