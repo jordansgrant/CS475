@@ -204,10 +204,9 @@ void Blight() {
     if (NowTemp <= BLIGHT_FREEZE)
       blight = 0.;
     else if (NowTemp >= BLIGHT_TEMP_MIN && NowTemp <= BLIGHT_TEMP_MAX && NowPrecip > BLIGHT_PRECIP_THRESH) {
-      blight = (BlightPct < 0.1) ? 0.05 : blight;
-      blight *= 10;
+      blight = (BlightPct < 0.1) ? 0.1 : blight * 8.;
     } else if (NowTemp >= BLIGHT_TEMP_MIN && NowPrecip > BLIGHT_PRECIP_THRESH){
-      blight *= 5;
+      blight *= 5.;
     } else if (NowTemp < BLIGHT_TEMP_MIN && NowPrecip > BLIGHT_PRECIP_THRESH) {
       blight *= 0.9;
     } else {
