@@ -33,15 +33,17 @@ const float RANDOM_TEMP             =	  10.0;	// plus or minus noise
 const float MIDTEMP                 =		40.0;
 const float MIDPRECIP               =		10.0;
 
-const float BLIGHT_TEMP_MIN         =   50.0;  // range of temps Blight prefers
-const float BLIGHT_TEMP_MAX         =   55.0;
-const float BLIGHT_FREEZE           =   45.0;
-const float BLIGHT_PRECIP_THRESH    =   8;     // blight thrives in precip > 8
+const float BLIGHT_TEMP_MIN         =   40.0;  // range of temps Blight prefers
+const float BLIGHT_TEMP_MAX         =   60.0;
+const float BLIGHT_FREEZE           =   32.0;
+const float BLIGHT_PRECIP_THRESH    =   7;     // blight thrives in precip > 7
 
 // Randomness function prototypes
 float Ranf( unsigned int *seedp,  float low, float high );
 int Rani( unsigned int *seedp, int ilow, int ihigh );
 float SQR( float x );
+
+unsigned int seed = 0;
 
 // Thread Task Function prototypes
 void GrainDeer();
@@ -58,7 +60,7 @@ int main() {
   // starting state (feel free to change this if you want):
   NowNumDeer                          =   1;
   NowHeight                           =   1.;
-  BlightPct                           =   0.1;
+  BlightPct                           =   0.;
 
   #ifdef BLIGHT
   printf("Date\tPrecip\tTemp\tHeight\tDeer\tBlight\n");
@@ -135,7 +137,7 @@ void Grain() {
     height -= (float)NowNumDeer * ONE_DEER_EATS_PER_MONTH;
 
     #ifdef BLIGHT
-    height *= (1 - BlightPct);
+    height *= (1 - (BlightPct/100));
     #endif
 
     // DoneComputing barrier:
@@ -165,9 +167,9 @@ void Watcher() {
     #pragma omp barrier
     // Print information
     #ifdef BLIGHT
-    printf("%d-%d\t%6.2f\t%6.2f\t%6.2f\t%d\t%5.4f\n", NowMonth, NowYear, NowPrecip, NowTemp, NowHeight, NowNumDeer, BlightPct);
+    printf("%d-%d\t%6.2f\t%6.2f\t%6.2f\t%d\t%5.4f\n", NowMonth+1, NowYear, NowPrecip, NowTemp, NowHeight, NowNumDeer, BlightPct);
     #else
-    printf("%d-%d\t%6.2f\t%6.2f\t%6.2f\t%d\n", NowMonth, NowYear, NowPrecip, NowTemp, NowHeight, NowNumDeer);
+    printf("%d-%d\t%6.2f\t%6.2f\t%6.2f\t%d\n", NowMonth+1, NowYear, NowPrecip, NowTemp, NowHeight, NowNumDeer);
     #endif
     // Increment Month/Year
     if (NowMonth == 11) {
@@ -180,7 +182,6 @@ void Watcher() {
     float ang = (  30.*(float)NowMonth + 15.  ) * ( M_PI / 180. );
     // calculate temperature
     float temp = AVG_TEMP - AMP_TEMP * cos( ang );
-    unsigned int seed = 0;
     NowTemp = temp + Ranf( &seed, -RANDOM_TEMP, RANDOM_TEMP );
 
     // Calculate Precipitation
@@ -202,16 +203,21 @@ void Blight() {
     float blight = BlightPct;
 
     if (NowTemp <= BLIGHT_FREEZE)
-      blight = 0.;
+      blight = 0.0;
     else if (NowTemp >= BLIGHT_TEMP_MIN && NowTemp <= BLIGHT_TEMP_MAX && NowPrecip > BLIGHT_PRECIP_THRESH) {
-      blight = (BlightPct < 0.1) ? 0.1 : blight * 8.;
+      blight += 20.0;
     } else if (NowTemp >= BLIGHT_TEMP_MIN && NowPrecip > BLIGHT_PRECIP_THRESH){
-      blight *= 5.;
+      blight += 15.0;
     } else if (NowTemp < BLIGHT_TEMP_MIN && NowPrecip > BLIGHT_PRECIP_THRESH) {
-      blight *= 0.9;
+      blight -= 10.0;
     } else {
-      blight *= 0.8;
+      blight -= 20.0;
     }
+
+    if (blight > 100.0)
+      blight = 100.0;
+    else if (blight < 0.0)
+      blight = 0.0;
 
     // DoneComputing barrier:
     #pragma omp barrier
