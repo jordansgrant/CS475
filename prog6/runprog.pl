@@ -5,7 +5,7 @@ my @rowsMult;
 my @rowsMultSum;
 my @locals = ( 8, 32, 64, 128, 256, 512 );
 
-foreach my $global ( 16, 160, 1280, 10240, 64000, 20000, 80000, 125000 ) {
+foreach my $global ( 16, 160, 1280, 10240, 24000, 64000, 80000, 125000 ) {
   $globalSize = $global * 64;
 
   my $lineMult    = "".$globalSize;

@@ -1,406 +1,406 @@
 
     1024	   8	       128
-Avg Perf     62.983 MegaMultsPerSec
-Max Perf     74.051 MegaMultsPerSec
+Avg Perf     49.792 MegaMultsPerSec
+Max Perf     54.281 MegaMultsPerSec
 
     1024	   8	       128
-Avg Perf     53.318 MegaMultsPerSec
-Max Perf     61.659 MegaMultsPerSec
+Avg Perf     40.920 MegaMultsPerSec
+Max Perf     45.166 MegaMultsPerSec
 
     1024	  32	        32
-Avg Perf     58.020 MegaMultsPerSec
-Max Perf     70.373 MegaMultsPerSec
+Avg Perf     56.923 MegaMultsPerSec
+Max Perf     63.600 MegaMultsPerSec
 
     1024	  32	        32
-Avg Perf     62.342 MegaMultsPerSec
-Max Perf     74.655 MegaMultsPerSec
+Avg Perf     57.648 MegaMultsPerSec
+Max Perf     66.428 MegaMultsPerSec
 
     1024	  64	        16
-Avg Perf     67.045 MegaMultsPerSec
-Max Perf     77.869 MegaMultsPerSec
+Avg Perf     61.328 MegaMultsPerSec
+Max Perf     72.719 MegaMultsPerSec
 
     1024	  64	        16
-Avg Perf     64.527 MegaMultsPerSec
-Max Perf     75.599 MegaMultsPerSec
+Avg Perf     57.671 MegaMultsPerSec
+Max Perf     66.815 MegaMultsPerSec
 
     1024	 128	         8
-Avg Perf     65.134 MegaMultsPerSec
-Max Perf     77.649 MegaMultsPerSec
+Avg Perf     67.603 MegaMultsPerSec
+Max Perf     75.807 MegaMultsPerSec
 
     1024	 128	         8
-Avg Perf     54.995 MegaMultsPerSec
-Max Perf     66.589 MegaMultsPerSec
+Avg Perf     65.895 MegaMultsPerSec
+Max Perf     75.350 MegaMultsPerSec
 
     1024	 256	         4
-Avg Perf     63.652 MegaMultsPerSec
-Max Perf     74.291 MegaMultsPerSec
+Avg Perf     53.121 MegaMultsPerSec
+Max Perf     61.770 MegaMultsPerSec
 
     1024	 256	         4
-Avg Perf     61.920 MegaMultsPerSec
-Max Perf     71.732 MegaMultsPerSec
+Avg Perf     51.250 MegaMultsPerSec
+Max Perf     59.730 MegaMultsPerSec
 
     1024	 512	         2
-Avg Perf     58.537 MegaMultsPerSec
-Max Perf     66.848 MegaMultsPerSec
+Avg Perf     59.442 MegaMultsPerSec
+Max Perf     66.204 MegaMultsPerSec
 
     1024	 512	         2
-Avg Perf     62.683 MegaMultsPerSec
-Max Perf     71.695 MegaMultsPerSec
+Avg Perf     60.682 MegaMultsPerSec
+Max Perf     68.857 MegaMultsPerSec
 
    10240	   8	      1280
-Avg Perf    579.527 MegaMultsPerSec
-Max Perf    627.289 MegaMultsPerSec
+Avg Perf    556.809 MegaMultsPerSec
+Max Perf    628.436 MegaMultsPerSec
 
    10240	   8	      1280
-Avg Perf    552.632 MegaMultsPerSec
-Max Perf    613.019 MegaMultsPerSec
+Avg Perf    570.274 MegaMultsPerSec
+Max Perf    620.212 MegaMultsPerSec
 
    10240	  32	       320
-Avg Perf    602.232 MegaMultsPerSec
-Max Perf    694.136 MegaMultsPerSec
+Avg Perf    671.866 MegaMultsPerSec
+Max Perf    740.512 MegaMultsPerSec
 
    10240	  32	       320
-Avg Perf    591.518 MegaMultsPerSec
-Max Perf    683.776 MegaMultsPerSec
+Avg Perf    620.285 MegaMultsPerSec
+Max Perf    682.418 MegaMultsPerSec
 
    10240	  64	       160
-Avg Perf    614.360 MegaMultsPerSec
-Max Perf    706.991 MegaMultsPerSec
+Avg Perf    692.733 MegaMultsPerSec
+Max Perf    771.262 MegaMultsPerSec
 
    10240	  64	       160
-Avg Perf    633.876 MegaMultsPerSec
-Max Perf    709.179 MegaMultsPerSec
+Avg Perf    645.247 MegaMultsPerSec
+Max Perf    733.399 MegaMultsPerSec
 
    10240	 128	        80
-Avg Perf    627.773 MegaMultsPerSec
-Max Perf    721.086 MegaMultsPerSec
+Avg Perf    659.358 MegaMultsPerSec
+Max Perf    740.512 MegaMultsPerSec
 
    10240	 128	        80
-Avg Perf    522.490 MegaMultsPerSec
-Max Perf    614.939 MegaMultsPerSec
+Avg Perf    668.994 MegaMultsPerSec
+Max Perf    737.729 MegaMultsPerSec
 
    10240	 256	        40
-Avg Perf    661.118 MegaMultsPerSec
-Max Perf    741.310 MegaMultsPerSec
+Avg Perf    689.511 MegaMultsPerSec
+Max Perf    768.674 MegaMultsPerSec
 
    10240	 256	        40
-Avg Perf    611.163 MegaMultsPerSec
-Max Perf    698.724 MegaMultsPerSec
+Avg Perf    653.105 MegaMultsPerSec
+Max Perf    725.654 MegaMultsPerSec
 
    10240	 512	        20
-Avg Perf    652.962 MegaMultsPerSec
-Max Perf    703.013 MegaMultsPerSec
+Avg Perf    617.248 MegaMultsPerSec
+Max Perf    716.201 MegaMultsPerSec
 
    10240	 512	        20
-Avg Perf    602.194 MegaMultsPerSec
-Max Perf    662.995 MegaMultsPerSec
+Avg Perf    636.278 MegaMultsPerSec
+Max Perf    727.190 MegaMultsPerSec
 
    81920	   8	     10240
-Avg Perf   2074.385 MegaMultsPerSec
-Max Perf   2160.565 MegaMultsPerSec
+Avg Perf   1997.755 MegaMultsPerSec
+Max Perf   2113.226 MegaMultsPerSec
 
    81920	   8	     10240
-Avg Perf   1842.842 MegaMultsPerSec
-Max Perf   1920.880 MegaMultsPerSec
+Avg Perf   1858.970 MegaMultsPerSec
+Max Perf   1964.115 MegaMultsPerSec
 
    81920	  32	      2560
-Avg Perf   3532.715 MegaMultsPerSec
-Max Perf   3871.520 MegaMultsPerSec
+Avg Perf   3824.002 MegaMultsPerSec
+Max Perf   4156.944 MegaMultsPerSec
 
    81920	  32	      2560
-Avg Perf   3346.523 MegaMultsPerSec
-Max Perf   3622.773 MegaMultsPerSec
+Avg Perf   3437.193 MegaMultsPerSec
+Max Perf   3788.806 MegaMultsPerSec
 
    81920	  64	      1280
-Avg Perf   4356.102 MegaMultsPerSec
-Max Perf   4645.170 MegaMultsPerSec
+Avg Perf   4378.944 MegaMultsPerSec
+Max Perf   4860.794 MegaMultsPerSec
 
    81920	  64	      1280
-Avg Perf   3739.880 MegaMultsPerSec
-Max Perf   4105.719 MegaMultsPerSec
+Avg Perf   3767.518 MegaMultsPerSec
+Max Perf   4303.372 MegaMultsPerSec
 
    81920	 128	       640
-Avg Perf   4188.750 MegaMultsPerSec
-Max Perf   4757.731 MegaMultsPerSec
+Avg Perf   4731.475 MegaMultsPerSec
+Max Perf   5176.608 MegaMultsPerSec
 
    81920	 128	       640
-Avg Perf   3664.040 MegaMultsPerSec
-Max Perf   4111.861 MegaMultsPerSec
+Avg Perf   4057.102 MegaMultsPerSec
+Max Perf   4485.972 MegaMultsPerSec
 
    81920	 256	       320
-Avg Perf   4490.115 MegaMultsPerSec
-Max Perf   4957.221 MegaMultsPerSec
+Avg Perf   4573.265 MegaMultsPerSec
+Max Perf   5095.049 MegaMultsPerSec
 
    81920	 256	       320
-Avg Perf   3783.447 MegaMultsPerSec
-Max Perf   4185.427 MegaMultsPerSec
+Avg Perf   3280.734 MegaMultsPerSec
+Max Perf   3700.813 MegaMultsPerSec
 
    81920	 512	       160
-Avg Perf   4033.421 MegaMultsPerSec
-Max Perf   4513.595 MegaMultsPerSec
+Avg Perf   3370.970 MegaMultsPerSec
+Max Perf   3863.358 MegaMultsPerSec
 
    81920	 512	       160
-Avg Perf   3057.465 MegaMultsPerSec
-Max Perf   3425.270 MegaMultsPerSec
+Avg Perf   2970.768 MegaMultsPerSec
+Max Perf   3389.370 MegaMultsPerSec
 
   655360	   8	     81920
-Avg Perf   2797.846 MegaMultsPerSec
-Max Perf   2824.783 MegaMultsPerSec
+Avg Perf   2836.474 MegaMultsPerSec
+Max Perf   2866.764 MegaMultsPerSec
 
   655360	   8	     81920
-Avg Perf   2696.451 MegaMultsPerSec
-Max Perf   2723.080 MegaMultsPerSec
+Avg Perf   2666.429 MegaMultsPerSec
+Max Perf   2704.244 MegaMultsPerSec
 
   655360	  32	     20480
-Avg Perf   8499.140 MegaMultsPerSec
-Max Perf   8749.720 MegaMultsPerSec
+Avg Perf   8045.507 MegaMultsPerSec
+Max Perf   8419.731 MegaMultsPerSec
 
   655360	  32	     20480
-Avg Perf   7671.023 MegaMultsPerSec
-Max Perf   7888.165 MegaMultsPerSec
+Avg Perf   7313.495 MegaMultsPerSec
+Max Perf   7575.003 MegaMultsPerSec
 
   655360	  64	     10240
-Avg Perf  12312.081 MegaMultsPerSec
-Max Perf  12790.596 MegaMultsPerSec
+Avg Perf  11641.980 MegaMultsPerSec
+Max Perf  12672.660 MegaMultsPerSec
 
   655360	  64	     10240
-Avg Perf   9773.281 MegaMultsPerSec
-Max Perf  10163.019 MegaMultsPerSec
+Avg Perf   8970.096 MegaMultsPerSec
+Max Perf   9487.750 MegaMultsPerSec
 
   655360	 128	      5120
-Avg Perf  12118.509 MegaMultsPerSec
-Max Perf  12723.988 MegaMultsPerSec
+Avg Perf  11898.017 MegaMultsPerSec
+Max Perf  12594.635 MegaMultsPerSec
 
   655360	 128	      5120
-Avg Perf   9729.422 MegaMultsPerSec
-Max Perf  10278.211 MegaMultsPerSec
+Avg Perf   9873.908 MegaMultsPerSec
+Max Perf  10343.477 MegaMultsPerSec
 
   655360	 256	      2560
-Avg Perf  13237.718 MegaMultsPerSec
-Max Perf  13789.141 MegaMultsPerSec
+Avg Perf  12055.578 MegaMultsPerSec
+Max Perf  12696.439 MegaMultsPerSec
 
   655360	 256	      2560
-Avg Perf  10165.749 MegaMultsPerSec
-Max Perf  10582.403 MegaMultsPerSec
+Avg Perf   9841.995 MegaMultsPerSec
+Max Perf  10216.136 MegaMultsPerSec
 
   655360	 512	      1280
-Avg Perf  12415.149 MegaMultsPerSec
-Max Perf  12969.763 MegaMultsPerSec
+Avg Perf  11623.633 MegaMultsPerSec
+Max Perf  12145.945 MegaMultsPerSec
 
   655360	 512	      1280
-Avg Perf  10490.657 MegaMultsPerSec
-Max Perf  10878.176 MegaMultsPerSec
+Avg Perf  10610.874 MegaMultsPerSec
+Max Perf  11192.382 MegaMultsPerSec
+
+ 1536000	   8	    192000
+Avg Perf   2584.493 MegaMultsPerSec
+Max Perf   2936.353 MegaMultsPerSec
+
+ 1536000	   8	    192000
+Avg Perf   2826.430 MegaMultsPerSec
+Max Perf   2842.780 MegaMultsPerSec
+
+ 1536000	  32	     48000
+Avg Perf   9568.661 MegaMultsPerSec
+Max Perf   9778.884 MegaMultsPerSec
+
+ 1536000	  32	     48000
+Avg Perf   8834.521 MegaMultsPerSec
+Max Perf   8940.476 MegaMultsPerSec
+
+ 1536000	  64	     24000
+Avg Perf  14183.821 MegaMultsPerSec
+Max Perf  15014.087 MegaMultsPerSec
+
+ 1536000	  64	     24000
+Avg Perf  11679.939 MegaMultsPerSec
+Max Perf  11942.905 MegaMultsPerSec
+
+ 1536000	 128	     12000
+Avg Perf  15015.265 MegaMultsPerSec
+Max Perf  15946.661 MegaMultsPerSec
+
+ 1536000	 128	     12000
+Avg Perf  12421.585 MegaMultsPerSec
+Max Perf  13010.124 MegaMultsPerSec
+
+ 1536000	 256	      6000
+Avg Perf  15461.718 MegaMultsPerSec
+Max Perf  15807.271 MegaMultsPerSec
+
+ 1536000	 256	      6000
+Avg Perf  12860.655 MegaMultsPerSec
+Max Perf  13106.900 MegaMultsPerSec
+
+ 1536000	 512	      3000
+Avg Perf  14553.682 MegaMultsPerSec
+Max Perf  16022.261 MegaMultsPerSec
+
+ 1536000	 512	      3000
+Avg Perf  12755.051 MegaMultsPerSec
+Max Perf  13023.274 MegaMultsPerSec
 
  4096000	   8	    512000
-Avg Perf   3007.662 MegaMultsPerSec
-Max Perf   3015.467 MegaMultsPerSec
+Avg Perf   3018.846 MegaMultsPerSec
+Max Perf   3028.490 MegaMultsPerSec
 
  4096000	   8	    512000
-Avg Perf   2898.599 MegaMultsPerSec
-Max Perf   2908.869 MegaMultsPerSec
+Avg Perf   2911.324 MegaMultsPerSec
+Max Perf   2919.729 MegaMultsPerSec
 
  4096000	  32	    128000
-Avg Perf  10683.938 MegaMultsPerSec
-Max Perf  10771.711 MegaMultsPerSec
+Avg Perf  10672.935 MegaMultsPerSec
+Max Perf  10766.859 MegaMultsPerSec
 
  4096000	  32	    128000
-Avg Perf   9494.829 MegaMultsPerSec
-Max Perf   9569.792 MegaMultsPerSec
+Avg Perf   9508.550 MegaMultsPerSec
+Max Perf   9588.820 MegaMultsPerSec
 
  4096000	  64	     64000
-Avg Perf  16539.565 MegaMultsPerSec
-Max Perf  16820.849 MegaMultsPerSec
+Avg Perf  16580.964 MegaMultsPerSec
+Max Perf  16829.088 MegaMultsPerSec
 
  4096000	  64	     64000
-Avg Perf  12721.998 MegaMultsPerSec
-Max Perf  12893.262 MegaMultsPerSec
+Avg Perf  13066.814 MegaMultsPerSec
+Max Perf  13199.419 MegaMultsPerSec
 
  4096000	 128	     32000
-Avg Perf  18413.047 MegaMultsPerSec
-Max Perf  18595.448 MegaMultsPerSec
+Avg Perf  18386.495 MegaMultsPerSec
+Max Perf  18720.827 MegaMultsPerSec
 
  4096000	 128	     32000
-Avg Perf  14157.267 MegaMultsPerSec
-Max Perf  14254.935 MegaMultsPerSec
+Avg Perf  14136.705 MegaMultsPerSec
+Max Perf  14290.879 MegaMultsPerSec
 
  4096000	 256	     16000
-Avg Perf  18205.638 MegaMultsPerSec
-Max Perf  18405.565 MegaMultsPerSec
+Avg Perf  18217.716 MegaMultsPerSec
+Max Perf  18454.994 MegaMultsPerSec
 
  4096000	 256	     16000
-Avg Perf  14090.315 MegaMultsPerSec
-Max Perf  14219.907 MegaMultsPerSec
+Avg Perf  14073.621 MegaMultsPerSec
+Max Perf  14217.700 MegaMultsPerSec
 
  4096000	 512	      8000
-Avg Perf  17454.740 MegaMultsPerSec
-Max Perf  17773.045 MegaMultsPerSec
+Avg Perf  17896.711 MegaMultsPerSec
+Max Perf  18174.347 MegaMultsPerSec
 
  4096000	 512	      8000
-Avg Perf  13868.318 MegaMultsPerSec
-Max Perf  14028.320 MegaMultsPerSec
-
- 1280000	   8	    160000
-Avg Perf   2818.052 MegaMultsPerSec
-Max Perf   2932.018 MegaMultsPerSec
-
- 1280000	   8	    160000
-Avg Perf   2796.143 MegaMultsPerSec
-Max Perf   2819.469 MegaMultsPerSec
-
- 1280000	  32	     40000
-Avg Perf   9526.224 MegaMultsPerSec
-Max Perf   9712.177 MegaMultsPerSec
-
- 1280000	  32	     40000
-Avg Perf   8392.071 MegaMultsPerSec
-Max Perf   8617.078 MegaMultsPerSec
-
- 1280000	  64	     20000
-Avg Perf  14328.992 MegaMultsPerSec
-Max Perf  14716.352 MegaMultsPerSec
-
- 1280000	  64	     20000
-Avg Perf  11566.473 MegaMultsPerSec
-Max Perf  11854.726 MegaMultsPerSec
-
- 1280000	 128	     10000
-Avg Perf  15495.655 MegaMultsPerSec
-Max Perf  16040.961 MegaMultsPerSec
-
- 1280000	 128	     10000
-Avg Perf  12173.054 MegaMultsPerSec
-Max Perf  12583.219 MegaMultsPerSec
-
- 1280000	 256	      5000
-Avg Perf  15520.644 MegaMultsPerSec
-Max Perf  16250.349 MegaMultsPerSec
-
- 1280000	 256	      5000
-Avg Perf  12504.254 MegaMultsPerSec
-Max Perf  12754.172 MegaMultsPerSec
-
- 1280000	 512	      2500
-Avg Perf  14388.094 MegaMultsPerSec
-Max Perf  15081.968 MegaMultsPerSec
-
- 1280000	 512	      2500
-Avg Perf  12072.078 MegaMultsPerSec
-Max Perf  12339.201 MegaMultsPerSec
+Avg Perf  13945.814 MegaMultsPerSec
+Max Perf  14139.446 MegaMultsPerSec
 
  5120000	   8	    640000
-Avg Perf   3021.002 MegaMultsPerSec
-Max Perf   3028.851 MegaMultsPerSec
+Avg Perf   3023.491 MegaMultsPerSec
+Max Perf   3033.839 MegaMultsPerSec
 
  5120000	   8	    640000
-Avg Perf   2905.503 MegaMultsPerSec
-Max Perf   2915.870 MegaMultsPerSec
+Avg Perf   2916.963 MegaMultsPerSec
+Max Perf   2925.416 MegaMultsPerSec
 
  5120000	  32	    160000
-Avg Perf  10636.080 MegaMultsPerSec
-Max Perf  10719.664 MegaMultsPerSec
+Avg Perf  10801.735 MegaMultsPerSec
+Max Perf  10880.221 MegaMultsPerSec
 
  5120000	  32	    160000
-Avg Perf   9558.187 MegaMultsPerSec
-Max Perf   9615.015 MegaMultsPerSec
+Avg Perf   9568.813 MegaMultsPerSec
+Max Perf   9626.464 MegaMultsPerSec
 
  5120000	  64	     80000
-Avg Perf  16759.753 MegaMultsPerSec
-Max Perf  16940.583 MegaMultsPerSec
+Avg Perf  16832.379 MegaMultsPerSec
+Max Perf  17015.247 MegaMultsPerSec
 
  5120000	  64	     80000
-Avg Perf  12991.939 MegaMultsPerSec
-Max Perf  13135.963 MegaMultsPerSec
+Avg Perf  13207.825 MegaMultsPerSec
+Max Perf  13347.216 MegaMultsPerSec
 
  5120000	 128	     40000
-Avg Perf  18590.362 MegaMultsPerSec
-Max Perf  18775.300 MegaMultsPerSec
+Avg Perf  18719.668 MegaMultsPerSec
+Max Perf  18911.709 MegaMultsPerSec
 
  5120000	 128	     40000
-Avg Perf  14032.273 MegaMultsPerSec
-Max Perf  14170.133 MegaMultsPerSec
+Avg Perf  14279.816 MegaMultsPerSec
+Max Perf  14401.466 MegaMultsPerSec
 
  5120000	 256	     20000
-Avg Perf  18057.905 MegaMultsPerSec
-Max Perf  18270.626 MegaMultsPerSec
+Avg Perf  18398.942 MegaMultsPerSec
+Max Perf  18582.876 MegaMultsPerSec
 
  5120000	 256	     20000
-Avg Perf  14053.927 MegaMultsPerSec
-Max Perf  14310.893 MegaMultsPerSec
+Avg Perf  14222.814 MegaMultsPerSec
+Max Perf  14355.737 MegaMultsPerSec
 
  5120000	 512	     10000
-Avg Perf  17731.842 MegaMultsPerSec
-Max Perf  17951.796 MegaMultsPerSec
+Avg Perf  17370.288 MegaMultsPerSec
+Max Perf  18419.008 MegaMultsPerSec
 
  5120000	 512	     10000
-Avg Perf  13866.401 MegaMultsPerSec
-Max Perf  14036.701 MegaMultsPerSec
+Avg Perf  14187.639 MegaMultsPerSec
+Max Perf  14291.845 MegaMultsPerSec
 
  8000000	   8	   1000000
-Avg Perf   3032.064 MegaMultsPerSec
-Max Perf   3040.340 MegaMultsPerSec
+Avg Perf   3025.729 MegaMultsPerSec
+Max Perf   3032.544 MegaMultsPerSec
 
  8000000	   8	   1000000
-Avg Perf   2912.537 MegaMultsPerSec
-Max Perf   2922.009 MegaMultsPerSec
+Avg Perf   2914.740 MegaMultsPerSec
+Max Perf   2922.359 MegaMultsPerSec
 
  8000000	  32	    250000
-Avg Perf  10837.384 MegaMultsPerSec
-Max Perf  10925.112 MegaMultsPerSec
+Avg Perf  10892.454 MegaMultsPerSec
+Max Perf  10954.537 MegaMultsPerSec
 
  8000000	  32	    250000
-Avg Perf   9555.816 MegaMultsPerSec
-Max Perf   9652.306 MegaMultsPerSec
+Avg Perf   9608.292 MegaMultsPerSec
+Max Perf   9694.836 MegaMultsPerSec
 
  8000000	  64	    125000
-Avg Perf  17033.055 MegaMultsPerSec
-Max Perf  17157.359 MegaMultsPerSec
+Avg Perf  17223.832 MegaMultsPerSec
+Max Perf  17355.647 MegaMultsPerSec
 
  8000000	  64	    125000
-Avg Perf  12922.523 MegaMultsPerSec
-Max Perf  13043.511 MegaMultsPerSec
+Avg Perf  13018.473 MegaMultsPerSec
+Max Perf  13109.120 MegaMultsPerSec
 
  8000000	 128	     62500
-Avg Perf  19033.865 MegaMultsPerSec
-Max Perf  19151.731 MegaMultsPerSec
+Avg Perf  18988.091 MegaMultsPerSec
+Max Perf  19171.222 MegaMultsPerSec
 
  8000000	 128	     62500
-Avg Perf  14352.978 MegaMultsPerSec
-Max Perf  14496.116 MegaMultsPerSec
+Avg Perf  13966.050 MegaMultsPerSec
+Max Perf  14546.391 MegaMultsPerSec
 
  8000000	 256	     31250
-Avg Perf  18412.970 MegaMultsPerSec
-Max Perf  18587.460 MegaMultsPerSec
+Avg Perf  18646.607 MegaMultsPerSec
+Max Perf  18825.686 MegaMultsPerSec
 
  8000000	 256	     31250
-Avg Perf  14428.926 MegaMultsPerSec
-Max Perf  14521.603 MegaMultsPerSec
+Avg Perf  14386.646 MegaMultsPerSec
+Max Perf  14489.074 MegaMultsPerSec
 
  8000000	 512	     15625
-Avg Perf  18249.597 MegaMultsPerSec
-Max Perf  18422.267 MegaMultsPerSec
+Avg Perf  18385.804 MegaMultsPerSec
+Max Perf  18509.918 MegaMultsPerSec
 
  8000000	 512	     15625
-Avg Perf  14329.354 MegaMultsPerSec
-Max Perf  14449.299 MegaMultsPerSec
+Avg Perf  14145.869 MegaMultsPerSec
+Max Perf  14257.626 MegaMultsPerSec
 
 Mult Table
 	8	32	64	128	256	512
-1024	    74.051	    70.373	    77.869	    77.649	    74.291	    66.848
-10240	   627.289	   694.136	   706.991	   721.086	   741.310	   703.013
-81920	  2160.565	  3871.520	  4645.170	  4757.731	  4957.221	  4513.595
-655360	  2824.783	  8749.720	 12790.596	 12723.988	 13789.141	 12969.763
-4096000	  3015.467	 10771.711	 16820.849	 18595.448	 18405.565	 17773.045
-1280000	  2932.018	  9712.177	 14716.352	 16040.961	 16250.349	 15081.968
-5120000	  3028.851	 10719.664	 16940.583	 18775.300	 18270.626	 17951.796
-8000000	  3040.340	 10925.112	 17157.359	 19151.731	 18587.460	 18422.267
+1024	    54.281	    63.600	    72.719	    75.807	    61.770	    66.204
+10240	   628.436	   740.512	   771.262	   740.512	   768.674	   716.201
+81920	  2113.226	  4156.944	  4860.794	  5176.608	  5095.049	  3863.358
+655360	  2866.764	  8419.731	 12672.660	 12594.635	 12696.439	 12145.945
+1536000	  2936.353	  9778.884	 15014.087	 15946.661	 15807.271	 16022.261
+4096000	  3028.490	 10766.859	 16829.088	 18720.827	 18454.994	 18174.347
+5120000	  3033.839	 10880.221	 17015.247	 18911.709	 18582.876	 18419.008
+8000000	  3032.544	 10954.537	 17355.647	 19171.222	 18825.686	 18509.918
 
 MultSum Table
 	8	32	64	128	256	512
-1024	    61.659	    74.655	    75.599	    66.589	    71.732	    71.695
-10240	   613.019	   683.776	   709.179	   614.939	   698.724	   662.995
-81920	  1920.880	  3622.773	  4105.719	  4111.861	  4185.427	  3425.270
-655360	  2723.080	  7888.165	 10163.019	 10278.211	 10582.403	 10878.176
-4096000	  2908.869	  9569.792	 12893.262	 14254.935	 14219.907	 14028.320
-1280000	  2819.469	  8617.078	 11854.726	 12583.219	 12754.172	 12339.201
-5120000	  2915.870	  9615.015	 13135.963	 14170.133	 14310.893	 14036.701
-8000000	  2922.009	  9652.306	 13043.511	 14496.116	 14521.603	 14449.299
+1024	    45.166	    66.428	    66.815	    75.350	    59.730	    68.857
+10240	   620.212	   682.418	   733.399	   737.729	   725.654	   727.190
+81920	  1964.115	  3788.806	  4303.372	  4485.972	  3700.813	  3389.370
+655360	  2704.244	  7575.003	  9487.750	 10343.477	 10216.136	 11192.382
+1536000	  2842.780	  8940.476	 11942.905	 13010.124	 13106.900	 13023.274
+4096000	  2919.729	  9588.820	 13199.419	 14290.879	 14217.700	 14139.446
+5120000	  2925.416	  9626.464	 13347.216	 14401.466	 14355.737	 14291.845
+8000000	  2922.359	  9694.836	 13109.120	 14546.391	 14489.074	 14257.626

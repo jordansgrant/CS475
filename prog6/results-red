@@ -1,0 +1,137 @@
+Num Elements     1024	Local Size   32	Work Groups         32
+Avg Perf     48.760 MegaMultsPerSec
+Max Perf     56.536 MegaMultsPerSec
+
+Num Elements     1024	Local Size   64	Work Groups         16
+Avg Perf     59.785 MegaMultsPerSec
+Max Perf     68.719 MegaMultsPerSec
+
+Num Elements     1024	Local Size  128	Work Groups          8
+Avg Perf     61.949 MegaMultsPerSec
+Max Perf     69.695 MegaMultsPerSec
+
+Num Elements     1024	Local Size  256	Work Groups          4
+Avg Perf     54.012 MegaMultsPerSec
+Max Perf     60.599 MegaMultsPerSec
+
+Num Elements    10240	Local Size   32	Work Groups        320
+Avg Perf    584.649 MegaMultsPerSec
+Max Perf    641.339 MegaMultsPerSec
+
+Num Elements    10240	Local Size   64	Work Groups        160
+Avg Perf    593.091 MegaMultsPerSec
+Max Perf    690.301 MegaMultsPerSec
+
+Num Elements    10240	Local Size  128	Work Groups         80
+Avg Perf    556.748 MegaMultsPerSec
+Max Perf    629.876 MegaMultsPerSec
+
+Num Elements    10240	Local Size  256	Work Groups         40
+Avg Perf    602.879 MegaMultsPerSec
+Max Perf    656.660 MegaMultsPerSec
+
+Num Elements    81920	Local Size   32	Work Groups       2560
+Avg Perf   2618.488 MegaMultsPerSec
+Max Perf   2812.770 MegaMultsPerSec
+
+Num Elements    81920	Local Size   64	Work Groups       1280
+Avg Perf   3193.143 MegaMultsPerSec
+Max Perf   3480.569 MegaMultsPerSec
+
+Num Elements    81920	Local Size  128	Work Groups        640
+Avg Perf   3609.321 MegaMultsPerSec
+Max Perf   3907.291 MegaMultsPerSec
+
+Num Elements    81920	Local Size  256	Work Groups        320
+Avg Perf   3390.935 MegaMultsPerSec
+Max Perf   3669.932 MegaMultsPerSec
+
+Num Elements   655360	Local Size   32	Work Groups      20480
+Avg Perf   4456.675 MegaMultsPerSec
+Max Perf   4498.130 MegaMultsPerSec
+
+Num Elements   655360	Local Size   64	Work Groups      10240
+Avg Perf   6873.325 MegaMultsPerSec
+Max Perf   7021.147 MegaMultsPerSec
+
+Num Elements   655360	Local Size  128	Work Groups       5120
+Avg Perf   9099.900 MegaMultsPerSec
+Max Perf   9348.595 MegaMultsPerSec
+
+Num Elements   655360	Local Size  256	Work Groups       2560
+Avg Perf   8089.197 MegaMultsPerSec
+Max Perf   8298.201 MegaMultsPerSec
+
+Num Elements  1536000	Local Size   32	Work Groups      48000
+Avg Perf   4734.561 MegaMultsPerSec
+Max Perf   4761.495 MegaMultsPerSec
+
+Num Elements  1536000	Local Size   64	Work Groups      24000
+Avg Perf   7644.587 MegaMultsPerSec
+Max Perf   7696.499 MegaMultsPerSec
+
+Num Elements  1536000	Local Size  128	Work Groups      12000
+Avg Perf  10709.905 MegaMultsPerSec
+Max Perf  10871.041 MegaMultsPerSec
+
+Num Elements  1536000	Local Size  256	Work Groups       6000
+Avg Perf   9233.492 MegaMultsPerSec
+Max Perf   9362.752 MegaMultsPerSec
+
+Num Elements  4096000	Local Size   32	Work Groups     128000
+Avg Perf   4887.782 MegaMultsPerSec
+Max Perf   4903.805 MegaMultsPerSec
+
+Num Elements  4096000	Local Size   64	Work Groups      64000
+Avg Perf   8063.737 MegaMultsPerSec
+Max Perf   8108.971 MegaMultsPerSec
+
+Num Elements  4096000	Local Size  128	Work Groups      32000
+Avg Perf  11467.261 MegaMultsPerSec
+Max Perf  11537.373 MegaMultsPerSec
+
+Num Elements  4096000	Local Size  256	Work Groups      16000
+Avg Perf   9879.001 MegaMultsPerSec
+Max Perf   9918.556 MegaMultsPerSec
+
+Num Elements  5120000	Local Size   32	Work Groups     160000
+Avg Perf   4907.338 MegaMultsPerSec
+Max Perf   4919.779 MegaMultsPerSec
+
+Num Elements  5120000	Local Size   64	Work Groups      80000
+Avg Perf   8137.483 MegaMultsPerSec
+Max Perf   8160.198 MegaMultsPerSec
+
+Num Elements  5120000	Local Size  128	Work Groups      40000
+Avg Perf  11630.756 MegaMultsPerSec
+Max Perf  11699.521 MegaMultsPerSec
+
+Num Elements  5120000	Local Size  256	Work Groups      20000
+Avg Perf   9959.560 MegaMultsPerSec
+Max Perf  10006.622 MegaMultsPerSec
+
+Num Elements  8000000	Local Size   32	Work Groups     250000
+Avg Perf   4938.229 MegaMultsPerSec
+Max Perf   4946.706 MegaMultsPerSec
+
+Num Elements  8000000	Local Size   64	Work Groups     125000
+Avg Perf   8212.678 MegaMultsPerSec
+Max Perf   8239.524 MegaMultsPerSec
+
+Num Elements  8000000	Local Size  128	Work Groups      62500
+Avg Perf  11718.716 MegaMultsPerSec
+Max Perf  11775.680 MegaMultsPerSec
+
+Num Elements  8000000	Local Size  256	Work Groups      31250
+Avg Perf  10082.165 MegaMultsPerSec
+Max Perf  10111.896 MegaMultsPerSec
+
+	32	64	128	256
+1024	    56.536	    68.719	    69.695	    60.599
+10240	   641.339	   690.301	   629.876	   656.660
+81920	  2812.770	  3480.569	  3907.291	  3669.932
+655360	  4498.130	  7021.147	  9348.595	  8298.201
+1536000	  4761.495	  7696.499	 10871.041	  9362.752
+4096000	  4903.805	  8108.971	 11537.373	  9918.556
+5120000	  4919.779	  8160.198	 11699.521	 10006.622
+8000000	  4946.706	  8239.524	 11775.680	 10111.896
